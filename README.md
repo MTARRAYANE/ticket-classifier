@@ -25,7 +25,7 @@ Multi-class text classifier for IT/Support tickets. Classifies ticket text into 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ticket-classifier.git
+git clone https://github.com/MTARRAYANE/ticket-classifier.git
 cd ticket-classifier
 ```
 
@@ -157,5 +157,5 @@ The model uses:
 MIT
 
 ## Author
-[Your Name]
+[MTAR RAYEN]
 
